@@ -1,0 +1,15 @@
+---
+layout: post
+title: XV-11 Lidar
+date: '2014-09-23T22:39:00.001-07:00'
+author: Dave Hylands
+tags:
+- Robotics
+- XV-11
+modified_time: '2014-09-23T22:40:10.934-07:00'
+thumbnail: http://3.bp.blogspot.com/-k0Awm-vVdPk/VCJXz78SgPI/AAAAAAAAYpE/E8T2kAkJ0dQ/s72-c/Lidar-Controller.png
+blogger_id: tag:blogger.com,1999:blog-2189571833278528716.post-9108616383556963752
+blogger_orig_url: http://blog.davehylands.com/2014/09/xv-11-lidar.html
+---
+
+I picked up a nifty little <a href="http://www.getsurreal.com/products/xv-lidar-controller" target="_blank">XV-11 Lidar Controller</a> and bought a broken Neato XV-11 for $28 on eBay.<br /><br />When I got the XV-11 it appeared to be well and truly dead. The batteries were fully charged, but the LCD wouldn't turn on. Which was fine. All I wanted was the Lidar sensor.<br /><br />I disassembled the XV-11 and got the sensor off. Connecting the motor to 5v made it go round, and providing 5v on the appropriate line gave me the following on the serial port.<br /><br /><div class="aOT" data-type="m" id=":3nd"><pre class="prettyprint"><span class="nocode">Piccolo Laser Distance Scanner<br />Copyright (c) 2009-2011 Neato Robotics, Inc.<br />All Rights Reserved<br /><br />Loader V2.5.15295<br />CPU F2802x/c001<br />Serial WTD10713AA-0240567<br />LastCal [5371726C]<br />Runtime V2.6.15295<br />#Spin...3 ESCs or BREAK to abort...</span></pre>and a bunch of binary data if I spin the turret by hand.<br /><br />I got the Lidar Controller today and hooked it up:<br /><div class="separator" style="clear: both; text-align: center;"><a href="{{ site.url }}/assets/2014-09-23/image-0100.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="{{ site.url }}/assets/2014-09-23/image-0100.png" height="155" width="320" /></a></div>and it seems to work. I tried running the <a href="http://www.getsurreal.com/products/xv-lidar-controller/xv-lidar-controller-visual-test" target="_blank">Visual Test</a> and was able to get this output:</div><div class="separator" style="clear: both; text-align: center;"><a href="{{ site.url }}/assets/2014-09-23/image-0101.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="{{ site.url }}/assets/2014-09-23/image-0101.png" height="320" width="300" /></a></div><div class="aOT" data-type="m" id=":3nd"><br />which is my office (about 12 feet x 20 feet).<br /><br />Very cool.<br /><br />This should be useable on my indoor platform that I'm putting together.</div>
