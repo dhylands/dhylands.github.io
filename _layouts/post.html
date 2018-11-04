@@ -1,0 +1,36 @@
+---
+layout: default
+---
+
+<article class="post">
+  <h1>{{ page.title }}</h1>
+
+  <div class="tags">
+    {% if page.categories != null %}
+      {% assign sortedCategories = page.categories | sort %}
+      {% for category in sortedCategories %}
+          <span class="tag">
+              <a href="/category/{{ category }}">@{{ category }}</a>
+          </span>
+      {% endfor %}
+    {% endif %}
+    {% if page.tags != null %}
+      {% assign sortedTags = page.tags | sort %}
+      {% for tag in sortedTags %}
+          <span class="tag">
+              <a href="/tag/{{ tag }}">#{{ tag }}</a>
+          </span>
+      {% endfor %}
+    {% endif %}
+  </div>
+
+  <div class="entry">
+    {{ content }}
+  </div>
+
+  <div class="date">
+    Written on {{ page.date | date: "%B %e, %Y" }}
+  </div>
+
+  {% include disqus.html %}
+</article>
