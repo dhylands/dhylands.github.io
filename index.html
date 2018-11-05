@@ -1,20 +1,19 @@
 ---
 layout: default
 ---
-
 <div class="tags">
-  {% comment %}
-  =======================
-  The purpose of this snippet is to list all the tags you have in your site.
-  =======================
-  {% endcomment %}
-  {% for tag in tags %}
-    <a href="#{{ tag | slugify }}"> {{ tag }} </a>
+  {% assign sortedTags = site.tags | sort %}
+  {% for tag in sortedTags %}
+  <span>
+    <a href="/tag/{{ tag[0] }}">{{ tag[0] }}</a> ({{ tag[1].size }}) 
+  </span>
   {% endfor %}
 </div>
-
+  
 <div class="posts">
-  {% for post in site.posts %}
+  <h2>Recent Posts:</h2>
+  {% for post in site.posts limit:10 %}
     {% include post_preview.html %}
   {% endfor %}
+  <a href="{{ site.baseurl }}/archive">Archive</a>
 </div>

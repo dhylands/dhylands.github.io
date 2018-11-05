@@ -15,6 +15,10 @@ avatar: /images/jekyll-logo.jpg
 collections:
   category:
     output: true
+    permalink: /category/:path/
+  tag:
+    output: true
+    permalink: /tag/:path/
 
 #
 # Flags below are optional

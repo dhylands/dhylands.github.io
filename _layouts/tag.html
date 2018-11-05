@@ -2,8 +2,8 @@
 layout: default
 ---
 
-<div class="blog list">
-    <h1>Filed Under <small>#{{ page.title }}</small></h1>
+<div class="posts">
+    <h1>Tag: <small>#{{ page.title }}</small></h1>
 
     {% for post in site.tags[page.tag] %}
         {% include post_preview.html %}

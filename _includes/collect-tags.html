@@ -1,3 +1,8 @@
+{% comment %}
+The following came from:
+http://longqian.me/2017/02/09/github-jekyll-tag/
+{% endcomment %}
+
 {% assign rawtags = "" %}
 {% for post in site.posts %}
   {% assign ttags = post.tags | join:'|' | append:'|' %}
