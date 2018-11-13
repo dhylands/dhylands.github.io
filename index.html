@@ -5,11 +5,11 @@ layout: default
   {% assign sortedTags = site.tags | sort %}
   {% for tag in sortedTags %}
   <span>
-    <a href="/tag/{{ tag[0] }}">{{ tag[0] }}</a> ({{ tag[1].size }}) 
+    <a href="{{ site.baseurl }}/tags/#{{ tag[0] }}">{{ tag[0] }}</a> ({{ tag[1].size }})
   </span>
   {% endfor %}
 </div>
-  
+
 <div class="posts">
   <h2>Recent Posts:</h2>
   {% for post in site.posts limit:10 %}
