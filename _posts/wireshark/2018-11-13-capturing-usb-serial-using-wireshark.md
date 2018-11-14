@@ -5,19 +5,28 @@ tags:
 - wireshark
 - "USB Serial"
 ---
-While working with a ConBee USB dongle for talking to Zigbee devices, I wanted to examime
-the serial stream being sent to/from the deConz program. This describes the steps I took
-to capture and examine the serial stream.
+While working with a ConBee USB dongle for talking to Zigbee devices, I
+wanted to examime the serial stream being sent to/from the deConz
+program. This describes the steps I took to capture and examine the
+serial stream.
 
-The steps described here were done using a linux computer running Ubuntu 18.04.
+The steps described here were done using a linux computer running
+Ubuntu 18.04.
 
-## Allow wireshark to access usbmon
+## Allow wireshark to access usbmon.
 
-When you install wireshark, you're presented with a dialog asking if non-superusers should
-be able to capture packets. Unfortunatly, this only applies to the regular networking
-interfaces and doesn't apply to usbmon.
+When you install wireshark, you're presented with a dialog asking if
+non-superusers should be able to capture packets. Unfortunatly,
+this only applies to the regular networking interfaces and doesn't
+apply to usbmon.
 
-I created a file called /etc/udev/rules.d/99-usbmon.rules
+You can verify that you are a member of the wireshark group by using
+the `id` command. The output of the id command will include all of the
+groups that your user is a member of. Note that group membership is
+inherited by sub-processes, so if you change your group membership, then
+you'll need to logout and log back in to have the change take effect.
+
+I created a file called `/etc/udev/rules.d/99-usbmon.rules`
 ```
 # Allows members of the wireshark group to access the usbmon device
 SUBSYSTEM=="usbmon", GROUP="wireshark", MODE="0640"
@@ -27,16 +36,19 @@ and then ran:
 sudo udevadm control --reload-rules
 sudo udevadm trigger
 ```
-If your user is a member of the wireshark group, then you can now access the /dev/usbmon*
+This causes the `/dev/usbmon*` files to have a group of `wireshark`,
+rather than a group of `root`, and if your user is a member of the
+`wireshark` group, then you'll be able to access the `/dev/usbmon*`
 files without being the root user.
 
-## Load usbmon
+## Load usbmon.
 
 Use the command:
 ```
 sudo modprobe usbmon
 ```
-to load the usbmon module. This is required to allow wireshark to intercept usb traffic.
+to load the usbmon module. This is required to allow wireshark
+to intercept usb traffic.
 
 Verify that the permissions are correct. You should see that the device
 nodes in /dev/usbmon have a group of wireshark:
@@ -48,20 +60,22 @@ crw-r----- 1 root wireshark 240, 2 Nov  7 13:43 /dev/usbmon2
 ...
 ```
 
-## Determine which bus and device your usb serial device is
+## Determine which bus and device your usb serial device is on.
 
-Determine which of the usbmon devices to use by looking at the output of the `lsusb` command.
-I was usisg a ConBee which had VID:PID of 0403:6015, so one of the lines of my lsusb output
-looked like this:
+Determine which of the usbmon devices to use by looking at the output
+of the `lsusb` command.
+I was usisg a ConBee which had VID:PID of 0403:6015, so one of the
+lines of my lsusb output looked like this:
 ```
 Bus 005 Device 003: ID 0403:6015 Future Technology Devices International, Ltd Bridge(I2C/SPI/UART/FIFO)
 ```
 The number 005 after the word `Bus` tells us that you should use usbmon5.
 Also make note of the 003 after the word `Device`. We'll use those later.
 
-## Capture your data
+## Capture your data.
 
-Start wireshark capture on usbmon5 (replace the 5 the bus number determined above).
+Start wireshark capture on usbmon5 (replace the 5 the bus number
+determined above).
 
 Start using your serial device. Once you've finished capturing your data
 you can reduce the amount of data using a display filter (unfortunately
