@@ -4,7 +4,14 @@
 
 # Name of your site (displayed in the header)
 name: Dave's Stuff
-title: DAve's Stuff
+title: Dave's Stuff
+
+defaults:
+  -
+    scope:
+      path: "" # An empty string here means all files in the project
+    values:
+      comment: true   # enable comments by default
 
 # Short bio or description (displayed in the header)
 description: Dave's Random Thoughts and Musings
