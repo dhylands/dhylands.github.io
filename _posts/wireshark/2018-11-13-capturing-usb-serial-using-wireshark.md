@@ -5,6 +5,7 @@ tags:
 - wireshark
 - "USB Serial"
 ---
+
 While working with a ConBee USB dongle for talking to Zigbee devices, I
 wanted to examime the serial stream being sent to/from the deConz
 program. This describes the steps I took to capture and examine the
