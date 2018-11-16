@@ -41,6 +41,6 @@ I used #4-40 x 3/8" flat head screws to hold it together,  but I imagine that
 M2.5 should work as well.
 
 I uploaded the FreeCAD source files, and .stl files to:
-<http://www.thingiverse.com/thing:515131>
+<https://www.thingiverse.com/thing:515131>
 
 

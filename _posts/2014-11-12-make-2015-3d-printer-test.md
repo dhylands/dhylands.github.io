@@ -24,9 +24,8 @@ optional duct( and the magazine model didn't, so I think that contributed to
 some of the lower scores in the magazine.
 
 
-I was using [1.75mm Gray filament](http://seacans.com/collections/pla/products
-/pla-grey-1-75mm-1kg) that I purchased from
-[seacans.com](http://seacans.com/)
+I was using [1.75mm Gray filament]https://seacans.com/collections/pla/products/pla-grey-1-75mm-1kg?variant=845014559) that I purchased from
+[seacans.com](https://seacans.com/)
 
 I sliced the models in Cura. This is my [settings
 file](https://www.dropbox.com/s/nh07ew339t384sk/Make-2015-Tests-Cura-
@@ -149,7 +148,7 @@ I couldn't see any of the Z artifacts on this print that I could see on some
 of the other prints.
 
 I also printed the [Maker Faire Robot Action
-Figure](http://makezine.com/magazine/print-in-place-the-additive-holy-grail)
+Figure](https://makezine.com/2014/11/10/print-in-place-the-additive-holy-grail/)
 and all of the joints move:
 
 [![]({{ site.url}}/images/2014-11-12/image-0012.jpg)]({{ site.url}}/images/2014-11-12/image-0012.jpg)[![]({{site.url}}/images/2014-11-12/image-0013.jpg)]({{site.url}}/images/2014-11-12/image-0013.jpg)

@@ -33,8 +33,8 @@ My gantry is setup with 2 direct drive extruders, which means that there is a
 fair amount of weight being moved up and down on the Z axis.
 
 From what I had heard, the MM2 used thicker aluminium parts. I also discovered
-that [OpenBuildsPartStore](http://openbuildspartstore.com/) sold a [NEMA 17
-stepper mount](http://openbuildspartstore.com/motor-mount-plate-nema-17/) that
+that [OpenBuildsPartStore](https://openbuildspartstore.com/) sold a
+[NEMA 17 stepper mount](https://openbuildspartstore.com/motor-mount-plate-nema-17-stepper-motor/) that
 could be adapted to work. It appears to be 0.125" (3.16mm) aluminum:
 
 [![]({{ site.url }}/images/2015-01-19/image-0001.jpg)]({{ site.url}}/images/2015-01-19/image-0001.jpg)

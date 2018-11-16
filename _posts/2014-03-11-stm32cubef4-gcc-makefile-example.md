@@ -12,7 +12,7 @@ blogger_orig_url: http://blog.davehylands.com/2014/03/stm32cubef4-gcc-makefile-e
 ---
 
 I started to play with the [STM32CubeF4
-hal](http://www.st.com/web/en/catalog/tools/PF259243#) code, in the context of
+hal](https://www.st.com/web/en/catalog/tools/PF259243#) code, in the context of
 helping to add support for it in MicroPython. I looked around for an example
 Makefile which used gcc, and couldn't find one.
 So, of course, I created my own.

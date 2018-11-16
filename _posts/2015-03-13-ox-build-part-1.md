@@ -18,7 +18,7 @@ Here are some photos and notes I took while starting my OX build.
 {% include ox-related.md %}
 
 If you have access to a 3D printer, then this [Tap
-Jig](http://www.thingiverse.com/thing:717903) works really well for ensuring
+Jig](https://www.thingiverse.com/thing:717903) works really well for ensuring
 that the tap runs true.
 
 [![]({{ site.url }}/images/2015-03-13/image-0000.jpg)]({{ site.url}}/images/2015-03-13/image-0000.jpg)
@@ -32,9 +32,9 @@ that the tap runs true.
 I don't seem to have much luck using tap handles, and I've found that using a
 drill chuck works much better. You'll need an M5x0.8 (metric coarse) tap. The
 one pictured below is the traditional tap. [Spiral flute
-taps](http://www.victornet.com/productthumbs/609.jpg) (which pull the chips
+taps](https://www.victornet.com/productthumbs/609.jpg) (which pull the chips
 out of the hole) or [spiral point
-taps](http://www.besly.com/images/catl6120.jpg) (which push the chips deeper
+taps](https://www.besly.com/images/catl6120.jpg) (which push the chips deeper
 in the hole) can be used without backing up, but the M5 spiral flute I bought
 had the wrong pitch (M5x0.5 which is call metric fine). So I had to use the
 tap from my metric tapping set which was neither spiral flute not spiral

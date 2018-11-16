@@ -40,5 +40,5 @@ extension).
 
 
 I posted my FreeCAD source file and the STL on
-[thingiverse](http://www.thingiverse.com/thing:548057).
+[thingiverse](https://www.thingiverse.com/thing:548057).
 

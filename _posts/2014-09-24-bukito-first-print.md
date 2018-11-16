@@ -16,7 +16,7 @@ So I got the bed trammed, and all of the limit switches checked out. Time to
 print!
 
 For the first print, I decided to print  the [Bukito Tram
-G-Code](http://bukobot.com/flight-check-bukito)
+G-Code](https://bukobot.com/flight-check-bukito)
 
 Here's a video that shows it just after I started the first print. It places 4
 beads around the outside of the table, and you can examine these to see how

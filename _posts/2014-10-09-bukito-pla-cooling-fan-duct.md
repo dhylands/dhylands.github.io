@@ -23,7 +23,7 @@ I ran it through Cura with 0.1mm layer thickness and it came out looking
 pretty nice.
 
 I just received a roll of [Silver
-filament](http://seacans.com/collections/pla/products/pla-silver-1-75mm-1kg)
+filament](https://seacans.com/collections/pla/products/pla-silver-1-75mm-1kg)
 that I ordered from [seacans.com](http://seacans.com/). Seacans is located in
 Langley, BC, so I was able to order it Tuesday, and it arrived on Thursday,
 and they have flat rate shipping too! I wound up ordering 6 spools of

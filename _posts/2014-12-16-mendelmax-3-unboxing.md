@@ -18,13 +18,11 @@ dual extruders, so I could use support material.
 I looked at the MakerBot offerings and was ready to buy one, but was totally
 put off by their Smart Extruder.
 
-So the search was on. I wound up looking at the
-[MendelMax2](http://store.makerstoolworks.com/printer-kits/mendelmax-2-0
--standard-kit/) from and thought it would be a nice kit to put together. And
-when paging through the [MakersToolWorks](http://store.makerstoolworks.com/)
+So the search was on. I wound up looking at the MendelMax2
+and thought it would be a nice kit to put together. While
+paging through the [MakersToolWorks](https://store.makerstoolworks.com/)
 store, what should I stumble upon but a hidden link for the
-[MendelMax3](http://store.makerstoolworks.com/printers-kits/mendelmax-3-full-
-kit/) (at the time I found it the URL had "hidden-item" in it).
+[MendelMax3](https://store.makerstoolworks.com/collections/3d-printers-and-kits/products/mm3-fk).
 
 This looked like a very nice printer, so I placed an order. I think I may have
 been the first non-beta person to order the MendelMax3. I also discovered that
@@ -112,7 +110,7 @@ Some miscellaneous electronics:
 [![]({{ site.url}}/images/2014-12-16/image-0114.jpg)]({{ site.url}}/images/2014-12-16/image-0114.jpg)
 
 
-And the 2 extruders, which are both [E3D-v6](http://e3d-online.com/E3D-v6/)
+And the 2 extruders, which are both [E3D-v6](https://e3d-online.com/v6)
 all metal hot ends:
 
 [![]({{ site.url}}/images/2014-12-16/image-0115.jpg)]({{ site.url}}/images/2014-12-16/image-0115.jpg)
@@ -134,8 +132,8 @@ A few more laser cut metal pieces:
 [![]({{ site.url}}/images/2014-12-16/image-0118.jpg)]({{ site.url}}/images/2014-12-16/image-0118.jpg)
 
 
-And a bunch of V-Slot extrusions (the wheels and extrusions are from [Open
-Builds Parts Store](http://openbuildspartstore.com/):
+And a bunch of V-Slot extrusions (the wheels and extrusions are from
+[Open Builds Parts Store](https://openbuildspartstore.com/):
 
 [![]({{ site.url }}/images/2014-12-16/image-0119.jpg)]({{ site.url}}/images/2014-12-16/image-0119.jpg)
 

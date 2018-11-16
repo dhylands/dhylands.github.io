@@ -10,8 +10,8 @@ blogger_id: tag:blogger.com,1999:blog-2189571833278528716.post-90282480241020293
 blogger_orig_url: http://blog.davehylands.com/2014/02/serial-bootloading-stm32f4.html
 ---
 
-I was helping out my [brother](http://blog.huv.com/) trying to figure out why
-his [uCee board](http://blog.huv.com/2014/02/micropython-boards-crystal-
+I was helping out my [brother](http://blog.huvrobotics.com/) trying to figure out why
+his [uCee board](http://blog.huvrobotics.com/2014/02/micropython-boards-crystal-
 trouble.html) wasn't working. The STM32F4xx chips have an onboard bootloader
 that can flash the chip using USB, CAN, or one of 2 UARTs.
 
@@ -24,7 +24,7 @@ recognize the chip but then bailed when trying to unprotect.
 
 I poked around a bit and came across this
 [variant](https://github.com/espruino/Espruino/blob/master/scripts/stm32loader.py)
-from the [Espruino project](http://www.espruino.com/). That version works on
+from the [Espruino project](https://www.espruino.com/). That version works on
 my STM32F4DISCOVERY board and it worked on my brothers board.
 
 The UART bootloader wants a raw .bin file without any special headers or
@@ -37,7 +37,7 @@ anything, so I used:
 
 
 to create a suitable binary file (flash.elf came from the
-[MicroPython](http://micropython.org/) build).
+[MicroPython](https://micropython.org/) build).
 
 To initiate the bootloader on the UART you need to make BOOT0 high, and then
 press and release RESET (keep BOOT0 high while releasing RESET). Then run:

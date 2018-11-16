@@ -12,7 +12,7 @@ blogger_orig_url: http://blog.davehylands.com/2015/03/ox-cnc-router-unboxing.htm
 ---
 
 Woot. My OX CNC Router Kit showed up today. I ordered this from
-[SMW3D](http://www.smw3d.com/ox-diy-cnc-kit-ox-in-a-box/).
+[SMW3D (now Hobby-Fab)](https://www.hobby-fab.com/shop-by-machine-kits/cnc-router-kits/ox-cnc-router).
 
 {% include ox-related.md %}
 
@@ -56,7 +56,7 @@ NEMA 17 for the Z axis.
 
 
 Closeup of one of the[ NEMA 23
-steppers](http://openbuildspartstore.com/nema-23-stepper-motor/). These are
+steppers](https://openbuildspartstore.com/nema-23-stepper-motor/). These are
 175 oz-in, 2.8A steppers.
 
 [![]({{ site.url }}/images/2015-03-13/image-0107.jpg)]({{ site.url}}/images/2015-03-13/image-0107.jpg)
@@ -189,8 +189,7 @@ document](https://dzevsq2emy08i.cloudfront.net/paperclip/digital_file_uploaded_f
 which describes a very similar speed controller. When the jumper is in the IP
 position, then the potentiometer controls the speed, and when the jumper is in
 the CP position, then the PWM input controls the speed. I also found
-[this](http://www.amazon.com/LD52GF-400W-Engraving-Milling-Spindle-
-Controller/forum/-/-/1?_encoding=UTF8&asin=B00CLL84A4) which mentions that IP
+a forum post on amazon which mentions that IP
 stands for "Internal Pulse width" and CP stands for "Computer Pulse width".
 
 {% include ox-related.md %}

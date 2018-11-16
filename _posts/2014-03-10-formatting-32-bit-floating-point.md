@@ -17,7 +17,7 @@ I spent quite a while looking, and all of the examples I found were focused on
 doubles or long-doubles and used a lot more RAM than what was required for
 just 32-bit floats.
 Of the ones, I did find, Fred Bayer's
-[pdouble.c](http://tangentsoft.net/palmfaq/src/pdouble.c) was one of the
+[pdouble.c](https://tangentsoft.net/palmfaq/src/pdouble.c) was one of the
 easiest to understand.
 I used that as a base, and added support for e, f, and g formats, as well as
 allowing the caller to specify the buffer (and size) to receive the results.

@@ -37,5 +37,5 @@ and clip it to the can:
 I created the file in OpenSCAD, and set it up to that you can easily customize
 various parameters (most likely can diameter and tube diameter, plus a few
 more). You can find the files on
-[thingiverse](http://www.thingiverse.com/thing:767712).
+[thingiverse](https://www.thingiverse.com/thing:767712).
 

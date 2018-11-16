@@ -20,7 +20,7 @@ number of extruders that you have configured.
 The MendelMax3 uses a [RAMBo](https://ultimachine.com/content/rambo-13) board,
 which runs Marlin firmware. I created a github repository containing the
 initial firmware image I got from [MakersToolWorks
-(MTW)](http://makerstoolworks.com/). The master branch of my
+(MTW)](https://makerstoolworks.com/). The master branch of my
 [repo](https://github.com/dhylands/MM3-Firmware/) contains the original code I
 got from MTW. The [test
 branch](https://github.com/dhylands/MM3-Firmware/tree/test) contains my

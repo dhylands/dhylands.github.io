@@ -14,9 +14,8 @@ blogger_orig_url: http://blog.davehylands.com/2015/01/mendelmax3-glcd-case.html
 One of the options I purchased with my MendelMax 3 was the GLCD. However, it
 doesn't come with a case, and the cases designs from MTW are all for the MM2.
 
-OhmEye (one of the MM3 beta testers) put together a [really nice
-one](http://pix.ohmeye.com/3DPrinting/Projects/MendelMax3-Panel-
-Mount/i-94FRHCC). However, the GLCD panel I got didn't quite fit my board. My
+OhmEye (one of the MM3 beta testers) put together a really nice
+one, however, the GLCD panel I got didn't quite fit my board. My
 panel was 0.5mm wider and the whole thing is a bit thicker.
 
 So I redesigned the top piece and since I was doing something from scratch, I
@@ -95,12 +94,11 @@ I really like the way it mounts.
 
 To summarize the pieces:
 I used the base and spacer from OhmEye's [STL
-files](http://pix.ohmeye.com/3DPrinting/Projects/MendelMax3-Panel-
-Mount/i-94FRHCC).
+files](http://ohmeye.com/download/mendelmax/).
 I used the knob from the MTW [GLCD mount
 files](https://www.dropbox.com/sh/pipqtmksk6c2pii/AAC6EcTeXhRHMKXhqnuetJdZa/GLCD%20Mount/Side%20Mount%20%28Preferred%29/LCD%20Knob.stl?dl=0).
 The front and PCB spacer can be found on
-[thingiverse](http://www.thingiverse.com/thing:1453368) and
+[thingiverse](https://www.thingiverse.com/thing:1453368) and
 [github](https://github.com/dhylands/3D-Printed-Parts/tree/master/GLCD).
 
 

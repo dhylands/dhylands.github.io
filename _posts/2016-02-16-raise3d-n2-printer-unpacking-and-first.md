@@ -11,11 +11,11 @@ blogger_id: tag:blogger.com,1999:blog-2189571833278528716.post-11500281674710485
 blogger_orig_url: http://blog.davehylands.com/2016/02/raise3d-n2-printer-unpacking-and-first.html
 ---
 
-I ordered a [Raise3D N2](http://www.raise3d.com/products/n2-pre-order) printer
+I ordered a [Raise3D N2](https://www.raise3d.com/products/n2-pre-order) printer
 as part of a [KickStarter](https://www.kickstarter.com/projects/raise3d
 /raise3d-raise-the-standard-of-3d-printing) campaign. All of the Canadian
 orders were container shipped to the good folks at
-[filaments.ca](http://filaments.ca/) and then shipped out to individuals.
+[filaments.ca](https://filaments.ca/) and then shipped out to individuals.
 
 
 
