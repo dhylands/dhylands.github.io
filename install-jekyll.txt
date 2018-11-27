@@ -1,0 +1,5 @@
+Installing Jekyll to run locally under ubuntu.
+
+sudo gem install bundler
+bundle install
+bundle exec jekyll serve --watch
