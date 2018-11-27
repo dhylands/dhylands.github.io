@@ -85,7 +85,7 @@ like the following, replacing the bus and device numbers as determined
 above:
 
 ```
-usb.bus_id == 5 && usb.device_address == 5 && usb.capdata
+usb.bus_id == 5 && usb.device_address == 3 && usb.capdata
 ```
 
 Export the data using: File->Export Packet Dissections->As JSON...
