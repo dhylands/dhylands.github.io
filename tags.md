@@ -5,7 +5,7 @@ Tags:
 <div class="tags">
   {% assign sortedTags = site.tags | sort %}
   {% for tag in sortedTags %}
-    <span>
+    <span class="tag">
       <a href="#{{ tag[0] }}">{{ tag[0] }}</a> ({{ tag[1].size }})
     </span>
   {% endfor %}

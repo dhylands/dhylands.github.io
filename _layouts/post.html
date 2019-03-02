@@ -5,7 +5,12 @@ layout: default
 <article class="post">
   <h1>{{ page.title }}</h1>
 
+  <div class="date">
+    Written on {{ page.date | date: "%B %e, %Y" }}
+  </div>
+
   <div class="tags">
+    <p>Tags:
     {% if page.categories != null %}
       {% assign sortedCategories = page.categories | sort %}
       {% for category in sortedCategories %}
@@ -17,19 +22,17 @@ layout: default
     {% if page.tags != null %}
       {% assign sortedTags = page.tags | sort %}
       {% for tag in sortedTags %}
+          {% assign tag_count = site.tags[tag].size %}
           <span class="tag">
-              <a href="/tags/#{{ tag }}">#{{ tag }}</a>
+              <a href="/tags/#{{ tag }}">{{ tag }}</a> ({{ tag_count }})
           </span>
       {% endfor %}
     {% endif %}
+    </p>
   </div>
 
   <div class="entry">
     {{ content }}
-  </div>
-
-  <div class="date">
-    Written on {{ page.date | date: "%B %e, %Y" }}
   </div>
 
   {% include comments.html %}
