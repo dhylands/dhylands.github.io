@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Connecting the Black Magic Probe to a blue pill 
+title: Connecting the Black Magic Probe to a blue pill
 tags:
 - STM32
 ---
@@ -34,7 +34,7 @@ Closeup of the 7-pin adapter.
 
 [![]({{site.url}}/images/bluepill/IMG_2389.jpg)]({{ site.url}}/images/bluepill/IMG_2389.jpg)
 
-Closeup of the SDIO connector
+Closeup of the SWD connector
 
 [![]({{site.url}}/images/bluepill/IMG_2390.jpg)]({{ site.url}}/images/bluepill/IMG_23.jpg)
 
@@ -64,7 +64,7 @@ The `--batch` option tells gdb to exit after executing the command file.
 
 Your GDB session should look something like:
 ```
-$ arm-none-eabi-gdb -ex 'target extended-remote /dev/cu.usbmodem7ABA4DC11' --batch --command gdbinit-swd blinky.elf 
+$ arm-none-eabi-gdb -ex 'target extended-remote /dev/cu.usbmodem7ABA4DC11' --batch --command gdbinit-swd blinky.elf
 Target voltage: 3.3V
 Available Targets:
 No. Att Driver
