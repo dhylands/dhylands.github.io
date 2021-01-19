@@ -19,7 +19,7 @@ it is, enclosed in a [SliceCase](https://www.kickstarter.com/projects/twohornets
 I also made my first mod, which was to add a switch for the BOOT1 signal. The
 red wire runs to 3.3v (on one of the caps connected to pin 64), and the white
 wire runs to the BOOT0 signal on R15 (See the bottom left corner of the
-[schematic](https://micropython.org/static/doc/PYBv10b.pdf)).
+[schematic](https://github.com/micropython/pyboard/raw/master/PYBv10b.pdf)).
 A dab of hot-glue holds the switch in place on top of the processor.
 Up until now, I've been using a [NetDuino Plus
 2](https://www.wildernesslabs.co/Netduino) which has the same processor

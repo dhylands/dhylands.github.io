@@ -22,7 +22,7 @@ So the search was on. I wound up looking at the MendelMax2
 and thought it would be a nice kit to put together. While
 paging through the [MakersToolWorks](https://store.makerstoolworks.com/)
 store, what should I stumble upon but a hidden link for the
-[MendelMax3](https://store.makerstoolworks.com/collections/3d-printers-and-kits/products/mm3-fk).
+MendelMax3 (No longer manufactered).
 
 This looked like a very nice printer, so I placed an order. I think I may have
 been the first non-beta person to order the MendelMax3. I also discovered that
@@ -99,7 +99,7 @@ I also ordered the optional GLCD and the required RAMBo adapter:
 [![]({{ site.url }}/images/2014-12-16/image-0112.jpg)]({{ site.url}}/images/2014-12-16/image-0112.jpg)
 
 
-This is the [RAMBo](https://ultimachine.com/content/rambo-13/) board, along
+This is the [RAMBo](https://ultimachine.com/products/rambo-1-3/) board, along
 with 3 limit swiches.
 
 [![]({{ site.url }}/images/2014-12-16/image-0113.jpg)]({{ site.url}}/images/2014-12-16/image-0113.jpg)

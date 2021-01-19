@@ -28,8 +28,7 @@ I was using [1.75mm Gray filament]https://seacans.com/collections/pla/products/p
 [seacans.com](https://seacans.com/)
 
 I sliced the models in Cura. This is my [settings
-file](https://www.dropbox.com/s/nh07ew339t384sk/Make-2015-Tests-Cura-
-PLA.ini?dl=0).
+file](https://www.dropbox.com/s/nh07ew339t384sk/Make-2015-Tests-Cura-PLA.ini?dl=0).
 
 Here are my settings changes:
 

@@ -199,30 +199,11 @@ need to play to find out how fast it can actually go.
 
 3D Printed Parts
 
-OX-Cable-Chain-Mounts|
-[OnShape](https://cad.onshape.com/documents/eb4e2b01aaca4131bfc64adb/w/b580832dbaa945a1a5b07eb1)|
-[github (STEP & STL)](https://github.com/dhylands/3D-Printed-
-Parts/tree/master/OX/Cable-Chain-Mounts)
----|---|---
-Spindle-Driver-Mount|
-[OnShape](https://cad.onshape.com/documents/a96ecf85f7a34e2a8763aafc/w/ba8e23a814c74d6d8dc1dfb7/e/15e9ed1c33b64cd9ba1d2d76)|
-[github (STEP & STL)](https://github.com/dhylands/3D-Printed-
-Parts/tree/master/OX/Spindle-Driver-Mount)
-TinyG-Mount|
-[OnShape](https://cad.onshape.com/documents/229ddbdaf73a48eaaf120f7d/w/e085852e97c44a929d195efd/e/dbd6e75dcdc14f8897d6faa1)|
-[github (STEP & STL)](https://github.com/dhylands/3D-Printed-
-Parts/tree/master/OX/TinyG-Mount)
-Wire-Clips|
-[OnShape](https://cad.onshape.com/documents/2bb479db69364fbbb4183eb9/w/06f3774923fa4ca2b0a4cfb0/e/5bb9567af54941a298dffa66)|
-[github (STEP & STL)](https://github.com/dhylands/3D-Printed-
-Parts/tree/master/V-Slot/Wire-Clips)
-T-Nut-Keeper|
-[OnShape](https://cad.onshape.com/documents/fb7d8749f7824fc9a0b49831/w/ec96c86b68d1463c9896ab3b/e/be95df3d9ead4f3fbeb6c493)|
-[github (STEP & STL)](https://github.com/dhylands/3D-Printed-
-Parts/tree/master/V-Slot/T-Nut-Keeper)
-Pen-Holder|
-[OnShape](https://cad.onshape.com/documents/1ab6b066f6d94400916b30d8/w/7a68bf29b63d4e1e9209e5da/e/2a07b34b57cf4736a098dee9)|
-[github (STEP & STL)](https://github.com/dhylands/3D-Printed-
-Parts/tree/master/OX/Pen-Holder)
+| OX-Cable-Chain-Mounts|[OnShape](https://cad.onshape.com/documents/eb4e2b01aaca4131bfc64adb/w/b580832dbaa945a1a5b07eb1) | [github (STEP & STL)](https://github.com/dhylands/3D-Printed-Parts/tree/master/OX/Cable-Chain-Mounts) |
+| Spindle-Driver-Mount | [OnShape](https://cad.onshape.com/documents/a96ecf85f7a34e2a8763aafc/w/ba8e23a814c74d6d8dc1dfb7/e/15e9ed1c33b64cd9ba1d2d76) | [github (STEP & STL)](https://github.com/dhylands/3D-Printed-Parts/tree/master/OX/Spindle-Driver-Mount) |
+| TinyG-Mount | [OnShape](https://cad.onshape.com/documents/229ddbdaf73a48eaaf120f7d/w/e085852e97c44a929d195efd/e/dbd6e75dcdc14f8897d6faa1) | [github (STEP & STL)](https://github.com/dhylands/3D-Printed-Parts/tree/master/OX/TinyG-Mount) |
+| Wire-Clips | [OnShape](https://cad.onshape.com/documents/2bb479db69364fbbb4183eb9/w/06f3774923fa4ca2b0a4cfb0/e/5bb9567af54941a298dffa66) | [github (STEP & STL)](https://github.com/dhylands/3D-Printed-Parts/tree/master/V-Slot/Wire-Clips) |
+| T-Nut-Keeper | [OnShape](https://cad.onshape.com/documents/fb7d8749f7824fc9a0b49831/w/ec96c86b68d1463c9896ab3b/e/be95df3d9ead4f3fbeb6c493) | [github (STEP & STL)](https://github.com/dhylands/3D-Printed-Parts/tree/master/V-Slot/T-Nut-Keeper) |
+| Pen-Holder | [OnShape](https://cad.onshape.com/documents/1ab6b066f6d94400916b30d8/w/7a68bf29b63d4e1e9209e5da/e/2a07b34b57cf4736a098dee9) | [github (STEP & STL)](https://github.com/dhylands/3D-Printed-Parts/tree/master/OX/Pen-Holder) |
 
 {% include ox-related.md %}

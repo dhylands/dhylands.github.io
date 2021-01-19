@@ -21,8 +21,7 @@ I put them together like this:
 [![]({{ site.url }}/images/2015-04-26/image-0001.jpg)]({{ site.url}}/images/2015-04-26/image-0001.jpg)
 
 
-You can find the stl files [here](https://github.com/dhylands/3D-Printed-
-Parts/tree/master/OX/Low-Profile-Knob), and the original OnShape CAD files
+You can find the stl files [here](https://github.com/dhylands/3D-Printed-Parts/tree/master/OX/Low-Profile-Knob), and the original OnShape CAD files
 [here](https://cad.onshape.com/documents/ac25f8aa27194f018107d8a3/w/d9c6e6dc98fe415180a348a6/e/273716e84f30487d979d0def).
 
 I used a cut piece of 1/4"-20 allthread for the stud. I used a punch to damage

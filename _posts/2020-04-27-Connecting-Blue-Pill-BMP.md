@@ -36,7 +36,7 @@ Closeup of the 7-pin adapter.
 
 Closeup of the SWD connector
 
-[![]({{site.url}}/images/bluepill/IMG_2390.jpg)]({{ site.url}}/images/bluepill/IMG_23.jpg)
+[![]({{site.url}}/images/bluepill/IMG_2390.jpg)]({{ site.url}}/images/bluepill/IMG_2390.jpg)
 
 
 ## GDB commands

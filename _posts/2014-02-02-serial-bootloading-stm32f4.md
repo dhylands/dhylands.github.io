@@ -11,8 +11,7 @@ blogger_orig_url: http://blog.davehylands.com/2014/02/serial-bootloading-stm32f4
 ---
 
 I was helping out my [brother](http://blog.huvrobotics.com/) trying to figure out why
-his [uCee board](http://blog.huvrobotics.com/2014/02/micropython-boards-crystal-
-trouble.html) wasn't working. The STM32F4xx chips have an onboard bootloader
+his [uCee board](http://blog.huvrobotics.com/2014/02/micropython-boards-crystal-trouble.html) wasn't working. The STM32F4xx chips have an onboard bootloader
 that can flash the chip using USB, CAN, or one of 2 UARTs.
 
 The USB wasn't working (which was the planned interface to use), so I

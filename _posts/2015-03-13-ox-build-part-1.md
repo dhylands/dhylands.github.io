@@ -3,8 +3,6 @@ layout: post
 title: OX Build - Part 1
 date: '2015-03-13T23:09:00.002-07:00'
 author: Dave Hylands
-categories:
-- cnc-router
 tags:
 - OX
 modified_time: '2015-11-01T17:57:09.252-08:00'

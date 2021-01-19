@@ -20,8 +20,7 @@ thick, and has a central hole diameter of 31mm.
 Needless to say, my spools won't fit on the N2 spool holders. So I went and
 designed a spool holder using OnShape. I put the files on
 [thingiverse](https://www.thingiverse.com/thing:1360118) and on [my github
-account](https://github.com/dhylands/3D-Printed-Parts/tree/master/Raise3D
-/Spool-Holder).
+account](https://github.com/dhylands/3D-Printed-Parts/tree/master/Raise3D/Spool-Holder).
 
 This shows the spool holder mounted in the printer:
 

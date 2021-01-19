@@ -181,9 +181,8 @@ make BOARD=G30TH deploy
 
 If you've never flashed MicroPython before, there may be additional steps
 required. The wiki page for [programming the STM32F4 Discovery
-Board](https://github.com/micropython/micropython/wiki/Board-
-STM32F407-Discovery#programming-from-linux-via-dfu) should have the
-information required.
+Board](https://github.com/micropython/micropython/wiki/Board-STM32F407-Discovery#programming-from-linux-via-dfu)
+should have the information required.
 
 Once MicroPython has been programmed, then you can use your favorite terminal
 program to open /dev/ttyACM0 and get a REPL: (I often use [usb-ser-

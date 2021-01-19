@@ -17,7 +17,7 @@ one or two installed.
 This blog post will show you how to modify your firmware to only display the
 number of extruders that you have configured.
 
-The MendelMax3 uses a [RAMBo](https://ultimachine.com/content/rambo-13) board,
+The MendelMax3 uses a [RAMBo](https://ultimachine.com/products/rambo-1-3) board,
 which runs Marlin firmware. I created a github repository containing the
 initial firmware image I got from [MakersToolWorks
 (MTW)](https://makerstoolworks.com/). The master branch of my

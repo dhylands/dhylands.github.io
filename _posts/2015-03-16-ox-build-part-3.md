@@ -148,7 +148,7 @@ magnets and they pulled it right out (phew):
 [![]({{ site.url }}/images/2015-03-16/image-0015.jpg)]({{ site.url}}/images/2015-03-16/image-0015.jpg)
 
 
-Brandon (from [hobby-fab](https://www.hobby-fab.com/)) asked me to check my speed
+Brandon (from Hobby-Fab) asked me to check my speed
 controller (since he was going to be sending me replacement bearings -
 apparently somebody else had a speed controller that went bad.
 

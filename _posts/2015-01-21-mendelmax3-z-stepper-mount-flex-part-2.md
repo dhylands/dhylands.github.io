@@ -76,9 +76,3 @@ To summarize:
 
 The MTW braces are available
 [here](https://www.dropbox.com/s/klxkb14t8364znt/Z%20Deflection%20Limiter%20Pair.stl?dl=0).
-
-My heavy duty brace is available [here](http://sproutform.com/physibles/165).
-I don't recommend using this because it has some fit problems (it interferes
-with the Z end stop).
-
-

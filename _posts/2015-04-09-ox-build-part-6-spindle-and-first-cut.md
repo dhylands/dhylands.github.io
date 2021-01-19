@@ -211,14 +211,7 @@ I think my next project will be some decent clamps.
 
 3D Printed Parts:
 
-Dust Cover|
-[OnShape](https://cad.onshape.com/documents/bd695a4a22c34d5b9a87a799/w/fe1c97c7dacb462abdb37b54/e/7b030486f55b42b8a4e5d66f)|
-[STEP & STL](https://github.com/dhylands/3D-Printed-Parts/tree/master/OX/Dust-
-Cover)
----|---|---
-52mm Spindle Mount|
-[OnShape](https://cad.onshape.com/documents/58088030d4b7419b8ad214f6/w/8420bcf6bbee4a0c8e7dbdd0/e/ed907d1f45ab434ab7380b54)|
-[STEP & STL](https://github.com/dhylands/3D-Printed-Parts/tree/master/OX/52mm-
-Spindle-Mount)
+| Dust Cover | [OnShape](https://cad.onshape.com/documents/bd695a4a22c34d5b9a87a799/w/fe1c97c7dacb462abdb37b54/e/7b030486f55b42b8a4e5d66f) | [STEP & STL](https://github.com/dhylands/3D-Printed-Parts/tree/master/OX/Dust-Cover) |
+| 52mm Spindle Mount | [OnShape](https://cad.onshape.com/documents/58088030d4b7419b8ad214f6/w/8420bcf6bbee4a0c8e7dbdd0/e/ed907d1f45ab434ab7380b54) | [STEP & STL](https://github.com/dhylands/3D-Printed-Parts/tree/master/OX/52mm-Spindle-Mount) |
 
 {% include ox-related.md %}

@@ -24,7 +24,8 @@ the 100 pin STM32F407.
 
 
 
-[![]({{ site.url }}/images/2014-10-15/image-0000.jpg)]({{ site.url}}/images/2014-10-15/image-0000.jpg)[![]({{ site.url}}/images/2014-10-15/image-0001.jpg)]({{ site.url}}/images/2014-10-15/image-0001.jpg)
+[![]({{ site.url }}/images/2014-10-15/image-0000.jpg)]({{ site.url}}/images/2014-10-15/image-0000.jpg)
+[![]({{ site.url}}/images/2014-10-15/image-0001.jpg)]({{ site.url}}/images/2014-10-15/image-0001.jpg)
 
 
 I decided to use the OpenMVCam to take a "selfie":
@@ -34,8 +35,7 @@ I decided to use the OpenMVCam to take a "selfie":
 }}/images/2014-10-15/image-0002.jpeg)
 
 
-This was taken in a mirror using the [write-
-jpeg.py](https://github.com/iabdalkader/openmv/blob/master/usr/examples/write_jpeg.py)
+This was taken in a mirror using the write-jpeg.py
 python script, running on the openmv board to snap a photo. I need to figure
 out how to focus the camera.
 

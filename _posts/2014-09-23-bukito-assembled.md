@@ -12,9 +12,8 @@ blogger_id: tag:blogger.com,1999:blog-2189571833278528716.post-25127639660437167
 blogger_orig_url: http://blog.davehylands.com/2014/09/bukito-assembled.html
 ---
 
-My [Bukito 3D Printer](https://www.kickstarter.com/projects/deezmaker/bukito-
-portable-3d-printer-take-it-everywhere) showed up in the mail today. This was
-also a KickStarter. It's only about 9 months late, but it looks like it was
+My [Bukito 3D Printer](https://www.kickstarter.com/projects/deezmaker/bukito-portable-3d-printer-take-it-everywhere)
+showed up in the mail today. This was also a KickStarter. It's only about 9 months late, but it looks like it was
 worth the wait.
 
 

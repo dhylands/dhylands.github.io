@@ -11,8 +11,7 @@ blogger_id: tag:blogger.com,1999:blog-2189571833278528716.post-49691610615115501
 blogger_orig_url: http://blog.davehylands.com/2015/03/ox-cnc-router-unboxing.html
 ---
 
-Woot. My OX CNC Router Kit showed up today. I ordered this from
-[SMW3D (now Hobby-Fab)](https://www.hobby-fab.com/shop-by-machine-kits/cnc-router-kits/ox-cnc-router).
+Woot. My OX CNC Router Kit showed up today. I ordered this from SMW3D (now Hobby-Fab).
 
 {% include ox-related.md %}
 

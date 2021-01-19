@@ -12,8 +12,8 @@ blogger_id: tag:blogger.com,1999:blog-2189571833278528716.post-70073240950197115
 blogger_orig_url: http://blog.davehylands.com/2014/10/bukito-pla-cooling-fan-duct.html
 ---
 
-Deezmaker just came out with a [PLA cooling fan duct](http://bukobot.com
-/bukito-pla-cooling-fan-duct) for the Bukito.
+Deezmaker just came out with a [PLA cooling fan duct](http://bukobot.com/bukito-pla-cooling-fan-duct)
+for the Bukito.
 
 It looked cool, so I figured I'd give it a try.
 

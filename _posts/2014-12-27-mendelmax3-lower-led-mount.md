@@ -80,8 +80,7 @@ extrusion:
 
 And this shows the "flag" mounted. The box on the right holds the buck
 converter and the arduino which drives the LEDs (and came from the [MTW
-optional prints folder](https://www.dropbox.com/sh/n0nhcj3mzdy72nd/AADoFNxD-
-1T5E8Ehf8lfMb_Da/Release%20printed%20parts/Optional%20Prints?dl=0)).
+optional prints folder](https://www.dropbox.com/sh/n0nhcj3mzdy72nd/AADoFNxD-1T5E8Ehf8lfMb_Da/Release%20printed%20parts/Optional%20Prints?dl=0)).
 
 [![]({{ site.url}}/images/2014-12-27/image-0009.jpg)]({{ site.url}}/images/2014-12-27/image-0009.jpg)
 
