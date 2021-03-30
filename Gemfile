@@ -5,3 +5,4 @@ gem "jekyll-docs", "~> 2.5"
 gem "nokogiri", "~> 1.11.0.rc4"
 gem 'rake'
 gem 'html-proofer'
+gem 'webrick'
