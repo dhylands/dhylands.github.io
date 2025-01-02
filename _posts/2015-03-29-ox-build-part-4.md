@@ -188,10 +188,10 @@ output of the first gcode file run:
 [![]({{ site.url }}/images/2015-03-29/image-0027.jpg)]({{ site.url}}/images/2015-03-29/image-0027.jpg)
 
 
-Video clip showing the first gcode run using ChilPeppr:
+[Video clip](https://youtu.be/JnRCfKvrZ1Y0){:target="_blank"} showing the first gcode run using ChilPeppr:
 
 
-I set the rapids to 400 mm/sec (24000 mm/min) and here's a video showing
+I set the rapids to 400 mm/sec (24000 mm/min) and here's a [video](https://youtu.be/W1im1LBqW5Y){:target="_blank"} showing
 corner to corner moves. That was just my initial guess at a rapid speed, I'll
 need to play to find out how fast it can actually go.
 
